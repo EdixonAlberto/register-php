@@ -1,0 +1,17 @@
+{
+    "name": "edixon-alberto/register-user-php",
+    "description": "APP WEB realizada en php para registrar usuarios y almacenarlos en una base de datos",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edixon Alberto",
+            "email": "edixonalbertto@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "vlucas/phpdotenv": "^3.5"
+    }
+}
